@@ -8,4 +8,4 @@
 
 - Uses Bootstrap for the first time to create 
 
-- Deployed via github pages
+- Deployed via github pages 
